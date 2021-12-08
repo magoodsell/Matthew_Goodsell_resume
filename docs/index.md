@@ -13,34 +13,43 @@ title: Matthew Goodsell's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+---
+
 ## Education
 
 `Expected Winter 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.52 Major GPA
+- Statistics Minor
+- Data Science Society project lead 
+- Technical skills: R, Python, MySQL, T-SQL, PowerBI
 
+---
 
 ## Related Experience
+
 
 ### Internship
 
 `Data Analyst Intern` 
-__First American Docutech__, Remote
+__First American Docutech__, May 2021 - August 2021
 
-* ...
+* Communicate with CRM employees to understand the what report the client wants
+* Created 4 reports to help new team members in the onboarding process with 
+* Condensed 3 queries to create a mulitple dashboard in PowerBi.
 
 `Data Analyst Intern`
-__BYU-Pathway__, Remote
+__BYU-Pathway__, September 2020 - December 2020
 
-* Utilized skills in SQL, PowerBI, and R to wrangle data and create key financial reports for stakeholders.
+* Utilized (built upon) skills  in SQL, PowerBI, and R to wrangle data and create key financial reports for stakeholders.
 * Collaborated with Treasury Manager and Financial Services Manager regarding reports final deliverable.
 * Presented Dashboards to Stakeholders
 
 `Data Science Lab Tutor`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-* ...
+* Help many students debug code, provide insights into how to improve a project
 
 ### Experiential Learning Projects 
 
@@ -66,6 +75,7 @@ __BYU-I Data Science Soceity__, January 2020 - April 2020
 * Using R and various packages such as tidyverse, ggplot, and matchit to help create a control group and experimental group. 
 * Used a chi-squared test to show significance of orientation in the semester auto drop rate compared to control and experimental group.
 
+---
 
 ## Leadership & Volunteer Experience
 
