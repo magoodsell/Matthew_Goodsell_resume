@@ -70,7 +70,7 @@ __BYU-I Data Science Soceity__, Pinnacle Project
 * Provided client with google doc on PowerBI tips
 
 
-`January 2020 - April 2020`
+`January - April 2020`
 __BYU-I Data Science Soceity__, Pathway Project
 
 * Co-project manager leading a group of 8+ to provide an analysis for BYU-Pathway to evaluate the effectiveness of an orientation checklist for new students
@@ -88,7 +88,7 @@ __The Church of Jesus Christ of Latter-Day Saints__, Cape Coast, Ghana
 * Prepared and taught weekly training meetings and worked one on one with fellow volunteers
 
 
-`2014-2015`
+`2014 - 2015`
 __The Boy Scouts Of America__, Culpepper, Virginia 
 * Completed all merit badge requirements and projects to receive the highest ranking, the Eagle scout Award
 * Found and planned a service project leading over 15 volunteers to assemble antique looking benches along the trail path
