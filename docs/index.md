@@ -38,7 +38,7 @@ __First American Docutech__,  Data Analyst
 
 * Communicate with CRM employees to understand the needs of a report and created reports in SSRS
 * Created 4 powerpoint reports to help new team members in the onboarding process
-* Condensed 3 queries to create a mulitple dashboards in PowerBi
+* Condensed 3 queries to create a multiple dashboards in PowerBi
 
 `September - December 2020 `
 __BYU-Pathway__, Data Analyst
@@ -59,7 +59,7 @@ __Research and Business Development Center (RBDC)__, Research Specialist
 
 * Used paired coding method to create a python function that detects potential centers of support beams in point cloud data
 * Created visuals and reports in R to provide insights and understanding of test results
-* Used Rmarkdown to render an HTML documet to display test results to client
+* Used Rmarkdown to render an HTML document to display test results to client
 
 
 `April - July 2020`
@@ -67,7 +67,7 @@ __BYU-I Data Science Soceity__, Pinnacle Project
 
 * Managed a team of 5 in creating dashboards to provide more insights in the company’s profit and loss statements
 * Produced visualizations in PowerBI and Google Data Studios
-* Provided client with google doc on PowerBI tips
+* Provided client with Google doc on PowerBI tips
 
 
 `January - April 2020`
