@@ -37,7 +37,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __First American Docutech__,  Data Analyst 
 
 * Communicate with CRM employees to understand the needs of a report and created reports in SSRS
-* Created 4 reports to help new team members in the onboarding process
+* Created 4 powerpoint reports to help new team members in the onboarding process
 * Condensed 3 queries to create a mulitple dashboards in PowerBi
 
 `September - December 2020 `
@@ -50,16 +50,16 @@ __BYU-Pathway__, Data Analyst
 `Rexburg, ID`
 __Brigham Young University - Idaho__, Data Science Lab Tutor
 
-* Help many students debug code and provide insights into how to improve a project
+* Help students debug code and provide insights into how to improve a project with wrangling data and visualizing it
 
 ### Experiential Learning Projects 
 
 `April - July 2020 `
 __Research and Business Development Center (RBDC)__, Research Specialist
 
-* Used paired coding method to create a python function that detects potential centers of support beams in point cloud data.
-* Created visuals and reports in R to provide insights and understanding of test results.
-* Used Rmarkdown to render an HTML documet to display test results to client. 
+* Used paired coding method to create a python function that detects potential centers of support beams in point cloud data
+* Created visuals and reports in R to provide insights and understanding of test results
+* Used Rmarkdown to render an HTML documet to display test results to client
 
 
 `April - July 2020`
