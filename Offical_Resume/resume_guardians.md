@@ -19,9 +19,9 @@ title: Matthew Goodsell's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.52 Major GPA
-- Statistics Minor
+- Data Science Major | Statistics Minor
 - Technical skills: R, Python, MySQL, T-SQL, PowerBI
-- Coursework: Intermediate Statistics, Applied Linear Regression, Machine Learning, Database design and Development, Database Programming, Multivariable Calculus, Data Wrangling and Visualizaiton, Intro to Linux
+- Applicable Coursework: Intermediate Statistics, Applied Linear Regression, Machine Learning, Database design and Development, Database Programming, Multivariable Calculus, Data Wrangling and Visualizaiton, Intro to Linux
 
 ## Work Experience
 
