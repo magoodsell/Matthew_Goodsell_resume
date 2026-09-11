@@ -18,19 +18,28 @@ title: Matthew Goodsell's Resume
 ## Education
 
 
-`Expected Winter 2023`
+`Graduated April 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.52 Major GPA
+- Data Science Major
 - Statistics Minor
 - Data Science Society project lead 
-- Technical skills: R, Python, MySQL, T-SQL, PowerBI
+- Technical skills: R, Python, MySQL, T-SQL, Power BI, Tableau 
 
 
 
 ## Work Experience
 
-`August - Current`
+`May 2023 - Current`
+__Data Analyst__, The Church of Jesus Christ of Later-Day Saints
+* oversaw a data mirgration from an on-premise server to the cloud utilizing databricks working closely with Data engineers and business leadership to ensure proper Key Performance logic was established.
+* Migrated 30+ reports from tableau to Power BI consulting with stakeholders and data engineers to ensure semantic models were properly established, reports were recreated for a global audience.
+* Consulted with stakeholders across departments to develop a Power App that would streamline and automate an internal vendor intake process and created reports off it to understand the volume and time to complete a request resulting in time savings of 1 hour per request
+* Built a Purchase Order Expediting Status Report to show Key milestones of the order process per individual buyer and project serving as a risk management tool to ensure on time delivery and save buyers up to 3 hours a week
+* Analyzed and developed customer satisfaction data for a global audience reporting to leadership on performance and actionable insights
+
+`August - December 2022?`
 __Pioneer League__, Chair of Data Analytics working group
 
 * ? How should this be labled
@@ -39,7 +48,7 @@ __Pioneer League__, Chair of Data Analytics working group
 `May - September 2022`
 __Idaho Falls Chukars__, Trackman Operator
 
-`April - Current`
+`April 2022 - April 2023`
 __BYU Pathway__, Lead BI Analsyt
 
 
