@@ -32,9 +32,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Work Experience
 
 `May 2023 - Current`
-__Data Analyst__, The Church of Jesus Christ of Later-Day Saints
-* oversaw a data mirgration from an on-premise server to the cloud utilizing databricks working closely with Data engineers and business leadership to ensure proper Key Performance logic was established.
-* Migrated 30+ reports from tableau to Power BI consulting with stakeholders and data engineers to ensure semantic models were properly established, reports were recreated for a global audience.
+__The Church of Jesus Christ of Later-Day Saints__, Data Analyst
+* oversaw a data mirgration from an on-premise server to the cloud utilizing databricks working closely with Data engineers and business leadership to ensure proper Key Performance logic was established
+* Migrated 30+ reports from tableau to Power BI consulting with stakeholders and data engineers to ensure semantic models were properly established, reports were recreated for a global audience
 * Consulted with stakeholders across departments to develop a Power App that would streamline and automate an internal vendor intake process and created reports off it to understand the volume and time to complete a request resulting in time savings of 1 hour per request
 * Built a Purchase Order Expediting Status Report to show Key milestones of the order process per individual buyer and project serving as a risk management tool to ensure on time delivery and save buyers up to 3 hours a week
 * Analyzed and developed customer satisfaction data for a global audience reporting to leadership on performance and actionable insights
@@ -63,7 +63,7 @@ __First American Docutech__,  Data Analyst
 __BYU-Pathway Worldwide__, Data Analyst
 
 * Utilized (built upon) skills  in SQL, PowerBI, and R to wrangle data and create key financial reports for stakeholders
-* Collaborated with Treasury Manager and Financial Services Manager regarding reports final deliverable.
+* Collaborated with Treasury Manager and Financial Services Manager regarding reports final deliverable
 * Presented Dashboards to Stakeholders
 
 `Rexburg, ID`
